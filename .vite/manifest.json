@@ -1,0 +1,49 @@
+{
+  "_framework-ECn3UeOx.js": {
+    "file": "fitness-calendar-web/_next/static/chunks/framework-ECn3UeOx.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-TbhqGlDY.js"
+    ]
+  },
+  "_rolldown-runtime-TbhqGlDY.js": {
+    "file": "fitness-calendar-web/_next/static/chunks/rolldown-runtime-TbhqGlDY.js",
+    "name": "rolldown-runtime"
+  },
+  "app/fitness-calendar.tsx": {
+    "file": "fitness-calendar-web/_next/static/chunks/fitness-calendar-DPi6kQWQ.js",
+    "name": "fitness-calendar",
+    "src": "app/fitness-calendar.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-TbhqGlDY.js",
+      "_framework-ECn3UeOx.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "fitness-calendar-web/_next/static/chunks/layout-segment-context-B8EYKVVT.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-TbhqGlDY.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-ECn3UeOx.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "fitness-calendar-web/_next/static/chunks/index-k67tElKN.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-TbhqGlDY.js",
+      "_framework-ECn3UeOx.js"
+    ],
+    "dynamicImports": [
+      "virtual:vinext-app-browser-entry",
+      "node_modules/vinext/dist/shims/layout-segment-context.js",
+      "app/fitness-calendar.tsx"
+    ]
+  }
+}
