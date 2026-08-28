@@ -21,7 +21,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "fitness-calendar-web/_next/static/chunks/layout-segment-context-PD7gvyqa.js",
+    "file": "fitness-calendar-web/_next/static/chunks/layout-segment-context-D7Id6DeK.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -32,7 +32,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "fitness-calendar-web/_next/static/chunks/index-O0hOJNM-.js",
+    "file": "fitness-calendar-web/_next/static/chunks/index-BJrNT6mi.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
