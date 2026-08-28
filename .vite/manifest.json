@@ -11,7 +11,7 @@
     "name": "rolldown-runtime"
   },
   "app/fitness-calendar.tsx": {
-    "file": "fitness-calendar-web/_next/static/chunks/fitness-calendar-D8SgG7va.js",
+    "file": "fitness-calendar-web/_next/static/chunks/fitness-calendar-BB1Pmqvz.js",
     "name": "fitness-calendar",
     "src": "app/fitness-calendar.tsx",
     "isDynamicEntry": true,
@@ -21,7 +21,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "fitness-calendar-web/_next/static/chunks/layout-segment-context-D9xtbYQe.js",
+    "file": "fitness-calendar-web/_next/static/chunks/layout-segment-context-C8kzIdIi.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -32,7 +32,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "fitness-calendar-web/_next/static/chunks/index-M5nfZucC.js",
+    "file": "fitness-calendar-web/_next/static/chunks/index-BuZqSY5T.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
